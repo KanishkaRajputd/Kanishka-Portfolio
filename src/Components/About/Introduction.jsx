@@ -41,19 +41,13 @@ export const Introduction = () => {
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Coder{" "}
-              </h4>
-              <h4 className="different">
-                <span className="icons">
-                  <ExitToAppIcon />
-                </span>
                 Singer{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                A Dreamer{" "}
+                 Dreamer{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
