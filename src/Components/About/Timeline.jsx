@@ -105,12 +105,12 @@ export const Timeline = () => {
             <p data-aos="fade-right">
               Studied B.Sc which consists of all the
               subjects accross all Science Stream. Passed
-              with 65% 
+              with 65 percentge. 
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"June 2018"}
+            date={"July2017 - June 2018"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",
