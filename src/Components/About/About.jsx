@@ -21,9 +21,10 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        Observant and detail-oriented aspiring full-stack web developer .
-        I am very good at problem solving and have a high affinity towards system design and always keen to build robust 
-        and highly efficient systems. Self-motivated and curious. Looking forward to honing my skills in a challenging work environment .
+          Observant and detail-oriented full-stack web developer .I am very good
+          at problem solving and have a high affinity towards system design and
+          always keen to build robust and highly efficient systems.
+          Self-motivated and curious.
         </p>
         <div className="about__contact center">
           <a
